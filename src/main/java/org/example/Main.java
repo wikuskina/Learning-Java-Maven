@@ -25,6 +25,7 @@ public class Main {
                 // System output
                 System.out.println(entry + " is translated as: " + days.getValue());
             }
+            in.nextLine();
         }
     }
 }
